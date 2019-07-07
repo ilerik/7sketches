@@ -3,6 +3,10 @@ Study material and excersises in applied category theory, using rust programming
 
 Inspired by the works of Bartosh Milevsky and his [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/), Giorgi Japaridze's [Computability Logic](https://arxiv.org/pdf/1902.05172.pdf), [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) by Brendan Fong and David I. Spivak. The other public project [nLab](https://ncatlab.org/nlab/show/HomePage) is community managed knowledge base on Math, Phylosophy and Physics seen from catergorical viewpoint.
 
+Interesting videos:
+* [Category Theory for Programmers](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
+* [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
+
 Interesting work related to rust:
 * [Monads in Rust](https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html)
 
