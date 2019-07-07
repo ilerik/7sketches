@@ -7,6 +7,9 @@ Interesting videos:
 * [Category Theory for Programmers](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA)
 
+Interesting projects using categorical approach:
+* [Pijul](https://pijul.org/) is a free and open source (GPL2) distributed version control system. Its distinctive feature is to be based on a sound theory of patches, which makes it easy to learn and use, and really distributed. #rust
+
 Interesting work related to rust:
 * [Monads in Rust](https://varkor.github.io/blog/2019/03/28/idiomatic-monads-in-rust.html)
 
